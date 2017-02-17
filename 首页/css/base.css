@@ -1,0 +1,20 @@
+/*通用选择器*/
+*{
+	margin: 0;
+	padding: 0;
+	/*去除li的默认圆点*/
+	list-style: none;
+}
+
+
+a{
+	/*去除a链接的下划线*/
+	text-decoration: none;
+}
+
+
+body{
+
+	/*给整个网页定义字体*/
+	font-family: "微软雅黑";
+}
